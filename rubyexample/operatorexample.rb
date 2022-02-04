@@ -1,0 +1,5 @@
+puts("hello"+"world")
+puts(12.to_s+"hello")
+puts(12+12.45)
+puts(12**2)
+puts(2>3)
